@@ -1,4 +1,4 @@
-<h1>SleekPad</h1>
+y<h1>SleekPad</h1>
 <p>SleekPad is a simple and sleek stream deck type of micropad containing 9 buttons in total, 8 switches and 1 rotary switch, it also contains a horizontal knob compared to the usual vertical one, the design also contains programmable RGB and a programmable Display. </p>
 
 <h2>Features:</h2>
@@ -15,7 +15,7 @@
 <h5><i>Made in Fusion360.</i></h5>
 
 <h2>PCB Model:</h2>
-<p>This is the pcb i designed, i have nothing much to say about it other than that its my first pcb and im proud of it.</p>
+<p>This is the pcb I designed, I have nothing much to say about it other than that its my first pcb and im proud of it.</p>
 <p>Schematic:</p>
 <img src="Assets/Schematic.png" alt="img">
 <br>
@@ -23,7 +23,7 @@
 <h5><i>Made in KiCad.</i></h5>
 <h2>Firmware:</h2>
 
-<p>I made the firmware with kmk, idk if it works because i need to get the materials to build this first and test it out , i plan to make the display, display time and have some functions that change its display depending on the buttons you press or probably go to QMK so i can make a custom app to control it.</p>
+<p>I made the firmware with kmk, idk if it works because I need to get the materials to build this first and test it out , I plan to make the display, display time and have some functions that change its display depending on the buttons you press or probably go to QMK so i can make a custom app to control it.</p>
 
 <h2>BOM:</h2>
 <table>
@@ -67,7 +67,7 @@
       <td>PCB</td>
     </tr>
     <tr>
-      <td>6x</td>
+      <td>5x</td>
       <td>M3x16mm SHCS Bolts</td>
     </tr>
     <tr>
@@ -89,6 +89,10 @@
     <tr>
       <td>1x</td>
       <td>Knob</td>
+    </tr>
+    <tr>
+      <td>1x</td>
+      <td>hexagonal M3 DIN934 100/1 nut (I have)</td>
     </tr>
   </tbody>
 </table>
