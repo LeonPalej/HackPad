@@ -26,17 +26,69 @@
 <p>I made the firmware with kmk, idk if it works because i need to get the materials to build this first and test it out , i plan to make the display, display time and have some functions that change its display depending on the buttons you press OR PROBABLY GO TO QMK so i can make a custom app to control it</p>
 
 <h2>BOM:</h2>
-- [ ] 8x MX-Style switches
-- [ ] 8x white blank DSA keycaps
-- [ ] 9x 1N4148 Diodes
-- [ ] 8x SK6812 MINI-E LEDs
-- [ ] 1x EC11 Rotary Encoder
-- [ ] 1x unsoldered Seeed XIAO RP2040
-- [ ] 1x 0.91 inch OLED display 
-- [ ] 1x PCB 
-- [ ] 6x M3x16mm SHCS Bolts 
-- [ ] 4x M3x5mmx4mm heatset inserts
-- [ ] 1x Case Top
-- [ ] 1x Case Middle 
-- [ ] 1x Case Bottom 
-- [ ] 1x Knob
+<table>
+  <thead>
+    <tr>
+      <th>Amount</th>
+      <th>Component / Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>8x</td>
+      <td>MX-Style switches</td>
+    </tr>
+    <tr>
+      <td>8x</td>
+      <td>White blank DSA keycaps</td>
+    </tr>
+    <tr>
+      <td>9x</td>
+      <td>1N4148 Diodes</td>
+    </tr>
+    <tr>
+      <td>8x</td>
+      <td>SK6812 MINI-E LEDs</td>
+    </tr>
+    <tr>
+      <td>1x</td>
+      <td>EC11 Rotary Encoder</td>
+    </tr>
+    <tr>
+      <td>1x</td>
+      <td>Unsoldered Seeed XIAO RP2040</td>
+    </tr>
+    <tr>
+      <td>1x</td>
+      <td>0.91 inch OLED display</td>
+    </tr>
+    <tr>
+      <td>1x</td>
+      <td>PCB</td>
+    </tr>
+    <tr>
+      <td>6x</td>
+      <td>M3x16mm SHCS Bolts</td>
+    </tr>
+    <tr>
+      <td>4x</td>
+      <td>M3x5mmx4mm heatset inserts</td>
+    </tr>
+    <tr>
+      <td>1x</td>
+      <td>Case Top</td>
+    </tr>
+    <tr>
+      <td>1x</td>
+      <td>Case Middle</td>
+    </tr>
+    <tr>
+      <td>1x</td>
+      <td>Case Bottom</td>
+    </tr>
+    <tr>
+      <td>1x</td>
+      <td>Knob</td>
+    </tr>
+  </tbody>
+</table>
