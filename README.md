@@ -23,7 +23,7 @@
 <h5><i>Made in KiCad.</i></h5>
 <h2>Firmware:</h2>
 
-<p>I made the firmware with kmk, idk if it works because i need to get the materials to build this first and test it out , i plan to make the display, display time and have some functions that change its display depending on the buttons you press OR PROBABLY GO TO QMK so i can make a custom app to control it</p>
+<p>I made the firmware with kmk, idk if it works because i need to get the materials to build this first and test it out , i plan to make the display, display time and have some functions that change its display depending on the buttons you press or probably go to QMK so i can make a custom app to control it.</p>
 
 <h2>BOM:</h2>
 <table>
